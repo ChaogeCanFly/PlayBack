@@ -1,0 +1,19 @@
+Partlist exported from C:/WorkSpace/WorkSpace_Eagle/ReSpeaker/ReSpeaker_SPK_OPA548/Respeaker_SPK_OPA548_V03/ReSpeaker_OPA548_V03.sch at 24/12/2018 16:40
+
+Qty Value      Device                              Package              Parts          Description                          MF MPN           OC_FARNELL OC_NEWARK PROD_ID    SF_ID     SPICEPREFIX VALUE       
+2    10k       RESISTOR0805                        0805                 R1, R6         Generic Resistor Package                                                                                                
+1   0.01uF     1.0UF-0805-25V-10%                  0805                 CIN            1µF ceramic capacitors                                                     CAP-08064                        1.0uF       
+2   0.1uF      1.0UF-0805-25V-10%                  0805                 C4, C6         1µF ceramic capacitors                                                     CAP-08064                        1.0uF       
+1   1.0uF      1.0UF-0805-25V-10%                  0805                 C3             1µF ceramic capacitors                                                     CAP-08064                        1.0uF       
+2   1000uF     CPOL-EUE7.5-16                      E7,5-16              C5, C7         POLARIZED CAPACITOR, European symbol                                                            C                       
+4   100k       RESISTOR0805                        0805                 R2, R4, RA, RB Generic Resistor Package                                                                                                
+1   10k        RESISTOR0805                        0805                 R5             Generic Resistor Package                                                                                                
+1   10uF       10UF-0805-10V-10%                   0805                 C2             10.0µF ceramic capacitors                                                  CAP-11330                        10uF        
+1   1k         RESISTOR0805                        0805                 R3             Generic Resistor Package                                                                                                
+1   1mF        1000UF-RADIAL-5MM-25V-20%           CPOL-RADIAL-5MM-10MM C1             1,000µF/1mF ceramic capacitors                                             CAP-09538                        1mF         
+1   2.7pF      1.0UF-0805-25V-10%                  0805                 C_LF           1µF ceramic capacitors                                                     CAP-08064                        1.0uF       
+1   60V-3A     SMD-DIODE-SCHOTTKY-40V-3A(DO-214AB) DO-214AB             D1             304020018                               SS34-E3/57T                                                         40V-3A      
+1   OPA548F    OPA548F                             DD-7                 OPA1           Operational Amplifier                   OPA548FKTWTG3 1234750    80K2676                                                
+1   POWER_JACK POWER_JACK                          POWER_JACK_PTH       J2             Power Jack Connector                                                       CONN-08197                                   
+1   RJ45       RJ45-8                              RJ45-8               J1             RJ45 Jack - 8 pin                                                          CONN-08506 PRT-00643             RJ45        
+1   SPK        SCREW-TERMINAL-GREEN(2P-5.0)        H2-5.0-10.5X8.0MM    J3             320110031                                                                                                   GREEN-2P-5.0

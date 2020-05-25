@@ -1,0 +1,2 @@
+Mic Speaker distance 0.5m
+Mic gain 4, mic thresh 50%

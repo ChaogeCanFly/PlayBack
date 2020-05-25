@@ -1,0 +1,3 @@
+Mic Speaker distance 0.5m
+Mic gain 2, mic thresh 50%
+HPF On

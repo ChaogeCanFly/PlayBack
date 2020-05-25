@@ -1,0 +1,8 @@
+Mic Speaker distance 0.9m
+SpeakerSystem distance 0.5m
+Mic gain 2, mic thresh 50%
+Mic FilterOn
+Switch Freq 786 kHz
+TrigPass_4000
+Pause_20 ms
+HPF 2_5kHz

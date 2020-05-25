@@ -1,0 +1,9 @@
+application.c:67:6:setup_init	16	static
+application.c:160:6:HAL_UART_RxCpltCallback	16	static
+application.c:167:6:serialEvent	16	static
+application.c:246:5:jsoneq	24	static
+application.c:255:6:parsePacket	472	static
+application.c:387:6:initPacket	4	static
+application.c:404:6:writePGA	24	static
+application.c:420:6:ackSend	16	static
+application.c:431:6:sendBuffOut	24	static
