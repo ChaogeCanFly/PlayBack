@@ -1,5 +1,10 @@
 # PlayBack_V02
  Augmented Reality System for bats based on Acoustic Signal Manipulation
+ 
+ ### 3d Models:
+[Microphone](https://a360.co/2HDuYLZ)
+[Switch](https://a360.co/36yYfSj)
+[Amplifier](https://a360.co/2WX1Lmh)
 
 ### System Diagram
 ![System Diagram](https://github.com/arkadiraf/PlayBack_V02/blob/master/Images/System%20topology%20diagram.png)
@@ -16,7 +21,6 @@
 ### Speaker amplifier
  ![Speaker amplifier](https://github.com/arkadiraf/PlayBack_V02/blob/master/Images/Speaker%20amplifier.jpg)
 
-### 3d Models:
-[Microphone](https://a360.co/2HDuYLZ)
-[Switch](https://a360.co/36yYfSj)
-[Amplifier](https://a360.co/2WX1Lmh)
+### GUI Microphone
+ ![GUI Microphone](https://github.com/arkadiraf/PlayBack_V02/blob/master/Images/Mic_GUI_Interface.JPG)
+
